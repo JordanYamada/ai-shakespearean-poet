@@ -20,3 +20,8 @@
 
 npm-debug.log*
 yarn-debug.log*
+
+.env
+*.crt
+*.key
+*.env
